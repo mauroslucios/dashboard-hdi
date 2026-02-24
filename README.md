@@ -1,15 +1,3 @@
-Perfeito — vou te entregar **um README “final”**, já no nível de projeto sério/open-source/produto, alinhado com:
-
-* Frontend: **Next.js (React)**
-* Backend: **Flask + SQLAlchemy**
-* Banco: **MySQL**
-* Ingestão: **CSV / JSON / Parquet / XML (DATASUS)**
-* Objetivo: **Dashboard epidemiológico sem hardcode**
-
-Você pode copiar e colar isso como `README.md` na raiz do repositório.
-
----
-
 # 🏥 Health Data Insights – Epidemiological Dashboard
 
 O **Health Data Insights (HDI)** é uma plataforma de análise epidemiológica focada em **visualização, exploração e monitoramento de dados de saúde pública**, com ênfase em doenças de notificação como **Dengue, Chikungunya, Zika, Rotavírus e Coqueluche**.
